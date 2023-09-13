@@ -21,8 +21,8 @@ My research has been closely intertwined with the Transformer based model. From 
 Activities
 =========
 
-* [Aug 15, 2023] Our 
-* [Jun 01, 2023] I joined [Liam Paninski](http://www.stat.columbia.edu/~liam/)'s [Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd) in [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) as a graduate researcher, focusing on Active Learning in Animal Behaviour Videos. 
+* [Aug 15, 2023] Our draft paper "diffIRM: A Diffusion-Augmented Invariant Risk Minimization Framework for Spatiotemporal Prediction over Graphs" for [AIStat 2024](http://aistats.org/aistats2024/) was finished, working with mates in [Ditect lab](https://sharondi-columbia.wixsite.com/ditectlab/home-1).
+* [Jun 01, 2023] I joined [Liam Paninski](http://www.stat.columbia.edu/~liam/)'s [Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd) in [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) as a graduate researcher, focusing on Active Learning in analysis of Animal Behaviour Videos. 
 * [May 25, 2023] Our paper ["Cross- and Context-Aware Attention Based Spatial-Temporal
 Graph Convolutional Networks for Human Mobility
 Prediction"](https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf) was submitted to [ACM Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) workshops 2023, working with mates in [Ditect lab](https://sharondi-columbia.wixsite.com/ditectlab/home-1). 
