@@ -16,6 +16,11 @@ I am the Transformer Generation
 ======
 My research has been closely intertwined with the Transformer model. From the inception of the Transformer Encoder to Visual Transformer (ViT), and further into the realms of Multimodal domain (ALBEF) and Spatial-Temporal Attention (ASTGCN), my work has revolved around exploring the applications of the Transformer model in various domains.
 
+-----
+Activities
+=========
+[03]
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -37,6 +42,8 @@ For site content, there is one markdown file for each type of content, which are
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+
+
 
 How to edit your site's GitHub repository
 ------
