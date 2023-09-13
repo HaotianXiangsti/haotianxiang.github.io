@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings"
+title: "Greetings !!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Haotian Xiang (向昊天), which is close to /haʊˈtiːən/ /ʃjɑŋ/.
+I am Haotian Xiang (向昊天). The pronunciation is close to /haʊˈtiːən/ /ʃjɑŋ/. I am currently a senior master student in Columbia EE department.
 
 A data-driven personal website
 ======
