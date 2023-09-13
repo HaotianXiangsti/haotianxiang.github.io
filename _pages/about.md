@@ -20,7 +20,8 @@ My research has been closely intertwined with the Transformer based model. From 
 
 Activities
 =========
-*[Aug 15, 2023] Our 
+
+* [Aug 15, 2023] Our 
 * [Jun 01, 2023] I joined [Paninski](http://www.stat.columbia.edu/~liam/)'s [Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd) in [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) as a graduate researcher, focusing on Active Learning in Animal Behaviour Videos. 
 * [May 25, 2023] Our paper ["Cross- and Context-Aware Attention Based Spatial-Temporal
 Graph Convolutional Networks for Human Mobility
