@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Haotian Xiang (向昊天). The pronunciation is close to /haʊˈtiːən/ /ʃjɑŋ/. I am currently a senior master student in Columbia EE department.
+I am Haotian Xiang (向昊天). The pronunciation is close to /haʊˈtiːən/ /ʃjɑŋ/. \
+I am currently a senior graduating student in the [Electrical Engineering department](https://www.ee.columbia.edu/ee-research) of Columbia University. Before that, I have completed B.Sc. in the Information Engineering department from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC).
 
 A data-driven personal website
 ======
