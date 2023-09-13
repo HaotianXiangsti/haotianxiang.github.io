@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Haotian Xiang.
+I am Haotian (向昊天), which is close to /haʊˈtiːən/ /ʃjɑŋ/.
 
 A data-driven personal website
 ======
