@@ -20,7 +20,10 @@ My research has been closely intertwined with the Transformer based model. From 
 
 Activities
 =========
+*[Aug 15, 2023] Our 
+* [Jun 01, 2023] I joined [Paninski](http://www.stat.columbia.edu/~liam/)'s [Lab](https://zuckermaninstitute.columbia.edu/liam-paninski-phd) in [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) as a graduate researcher, focusing on Active Learning in Animal Behaviour Videos. 
 * [May 25, 2023] Our paper ["Cross- and Context-Aware Attention Based Spatial-Temporal
 Graph Convolutional Networks for Human Mobility
-Prediction"](https://drive.google.com/file/d/1eacc8eUARKCWqsHKRzc07kbjPLQoS5NL/view?usp=sharing) was submitted to [ACM Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) workshops 2023 with 
+Prediction"]("https://haotianxiang.github.io/files/paper1.pdf") was submitted to [ACM Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) workshops 2023, working with mates in [Ditect lab](https://sharondi-columbia.wixsite.com/ditectlab/home-1). 
+* [Feb 04, 2023] I joined [Professor Xuan Di](https://www.civil.columbia.edu/content/xuan-sharon-di)'s [Ditect lab](https://sharondi-columbia.wixsite.com/ditectlab/home-1), Data Science Center, Smart City Section, as a graduate researcher, focusing on Intelligent Transportation Systems, especially for Human Mobility Forecasting and Traffic Flow Forcasting.  
 
