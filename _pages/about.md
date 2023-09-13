@@ -17,6 +17,7 @@ I am the Transformer Generation
 My research has been closely intertwined with the Transformer model. From the inception of the Transformer Encoder to Visual Transformer (ViT), and further into the realms of Multimodal domain (ALBEF) and Spatial-Temporal Attention (ASTGCN), my work has revolved around exploring the applications of the Transformer model in various domains.
 
 -----
+
 Activities
 =========
 [03]
