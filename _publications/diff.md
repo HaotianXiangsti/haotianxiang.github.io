@@ -3,6 +3,6 @@ title: "diffIRM: A Diffusion-Augmented Invariant Risk Minimization Framework for
 collection: publications
 permalink: /publication/diff
 paperurl: 'https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf'
-author: "**Haotian Xiang*** , Lyndong Liu*, Zhaobin Mo*, Sharon Di^"
+author: "**Haotian Xiang** * , Lyndong Liu*, Zhaobin Mo*, Sharon Di^"
 ---
 <img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/flowchart_1.jpg" alt="图片描述">
