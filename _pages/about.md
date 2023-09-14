@@ -10,7 +10,7 @@ redirect_from:
 
 I am Haotian Xiang (向昊天). The pronunciation is close to /haʊˈtiːən/ /ʃjɑŋ/. 
 
-I am currently a senior master student in the [Electrical Engineering](https://www.ee.columbia.edu/ee-research) department of Columbia University. Before that, I have completed my B.Sc. with first class honor in the Information Engineering department from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC).
+I am currently a senior master student in the [Electrical Engineering](https://www.ee.columbia.edu/ee-research) department of Columbia University. Before that, I have completed my B.Sc. with first class honor in the Electrical Information Engineering department from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC).
 
 I am the Transformer Generation !
 ======
