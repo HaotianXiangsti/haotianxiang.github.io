@@ -28,4 +28,4 @@ Activities
 Graph Convolutional Networks for Human Mobility
 Prediction"](https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf) was submitted to [ACM Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) workshops 2023, working with mates in [Ditect lab](https://sharondi-columbia.wixsite.com/ditectlab/home-1). 
 * [Feb 04, 2023] I joined [Professor Xuan Di](https://www.civil.columbia.edu/content/xuan-sharon-di)'s [Ditect lab](https://sharondi-columbia.wixsite.com/ditectlab/home-1), Data Science Center, Smart City Section, as a graduate researcher, focusing on Intelligent Transportation Systems, especially for Human Mobility Forecasting and Traffic Flow Forcasting.  
-* [Jan 08, 2023] A Latent Diffusion Model for X-ray Diffusion SpectrumSupervised by Professor Geng in Roc
+* [Jan 08, 2023] I built A Latent Diffusion Model generating X-ray Diffusion Spectrum Experiment data, supervised by [Professor Tong Geng](https://www.tonytgeng.com/) in the Rochester University.
