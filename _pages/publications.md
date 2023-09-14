@@ -11,7 +11,11 @@ author_profile: true
 
 **Haotian Xiang**^, Zhaobin Mo^, Lindong Liu^, Sharon Di*
 
+["Cross- and Context-Aware Attention Based Spatial-Temporal Graph Convolutional Networks for Human Mobility Prediction"](https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf)
+===
+<img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/architecture.png">
 
+Zhaobin Mo, **Haotian Xiang**, Eric Chang, Sharon Di*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
