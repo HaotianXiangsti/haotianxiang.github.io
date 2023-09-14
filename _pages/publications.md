@@ -10,6 +10,7 @@ author_profile: true
 <img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/flowchart_1.jpg">
 
 **Haotian Xiang**^, Zhaobin Mo^, Lindong Liu^, Sharon Di*
+
 The Draft Paper is completed and it is aiming for [AIStat 2024](http://aistats.org/aistats2024/)
 
 ["Cross- and Context-Aware Attention Based Spatial-Temporal Graph Convolutional Networks for Human Mobility Prediction"](https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf)
@@ -17,6 +18,8 @@ The Draft Paper is completed and it is aiming for [AIStat 2024](http://aistats.o
 <img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/architecture.png">
 
 Zhaobin Mo, **Haotian Xiang**, Eric Chang, Sharon Di*
+
+The paper is submitted to [ACM Transactions on Spatial Algorithms and Systems](https://dl.acm.org/journal/tsas) workshops 2023
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
