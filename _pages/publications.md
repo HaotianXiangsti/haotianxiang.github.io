@@ -9,7 +9,7 @@ author_profile: true
 ===
 <img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/flowchart_1.jpg">
 
-**Haotian Xiang**, Zhaobin Mo, Lindong Liu, Sharon Di*
+**Haotian Xiang**^, Zhaobin Mo^, Lindong Liu^, Sharon Di*
 
 
 
