@@ -12,7 +12,7 @@ I am Haotian Xiang (向昊天). The pronunciation is close to /haʊˈtiːən/ /�
 
 I am currently a senior master student in the [Electrical Engineering](https://www.ee.columbia.edu/ee-research) department of Columbia University. Before that, I have completed my B.Sc. with first class honor in the Electrical Information Engineering department from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC).
 
-My research interests include **Generative Models**, **Intelligent Transportation Systems**, and **Active Learning**. I am familiar with Urban Spatial-Temporal Prediction, particularly in the areas of Human Mobility Forecasting and Traffic Flow Forecasting. I am passionate about training more Robust and more General models to survive from **Out-of-Distribution (OOD)** data in Real-World Scenarios. 
+My research interests include **Generative Models**, **Intelligent Transportation Systems**, and **Active Learning**. I am familiar with **Urban Spatial-Temporal Prediction**, particularly in the areas of Human Mobility Forecasting and Traffic Flow Forecasting. I am passionate about training more Robust and more General models to survive from **Out-of-Distribution (OOD)** data in Real-World Scenarios. 
 
 **Long-Live AI4Science !**
 
