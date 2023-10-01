@@ -4,7 +4,7 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Papers"
+  - title: "Paper"
     url: /publications/
 
   #- title: "Talks"
