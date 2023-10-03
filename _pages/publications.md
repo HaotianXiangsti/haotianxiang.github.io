@@ -13,7 +13,7 @@ author_profile: true
 
 The Draft Paper is completed and it is aiming for [AIStat 2024](http://aistats.org/aistats2024/)
 
-["Cross- and Context-Aware Attention Based Spatial-Temporal Graph Convolutional Networks for Human Mobility Prediction"](https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf)
+[Cross- and Context-Aware Attention Based Spatial-Temporal Graph Convolutional Networks for Human Mobility Prediction](https://haotianxiangsti.github.io/haotianxiang.github.io/files/TSAS2023.pdf)
 ===
 <img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/architecture.png">
 
