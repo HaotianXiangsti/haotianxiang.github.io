@@ -7,7 +7,7 @@ author_profile: true
 
 [diffIRM: A Diffusion-Augmented Invariant Risk Minimization Framework for Spatiotemporal Prediction over Graphs](https://haotianxiangsti.github.io/haotianxiang.github.io/files/Haotian_Xiang_Abstract_AISTATS_24.pdf)
 ===
-<img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/flowchart (1).jpg">
+<img src="https://haotianxiangsti.github.io/haotianxiang.github.io/images/flowchart(1).jpg">
 
 **Haotian Xiang**^, Zhaobin Mo^, Lindong Liu^, Sharon Di*
 
